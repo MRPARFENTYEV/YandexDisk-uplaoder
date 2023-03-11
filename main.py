@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = "y0_AgAAAABTRX8UAADLWwAAAADZRIE7LizE9i-1SriX0obtR9f00IiUy-4"
+TOKEN = 
 
 
 class YaUploader:
